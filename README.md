@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fireball147
 - 👀 I’m an Investment Banker with a personal interest in programing
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 
 
 <!---
